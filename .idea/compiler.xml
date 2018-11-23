@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="springboottest" options="-parameters" />
+      <module name="springboottest" options="" />
     </option>
   </component>
 </project>
